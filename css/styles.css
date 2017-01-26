@@ -1,3 +1,10 @@
+.sidebar {
+  width: 12%;
+  height: 100%;
+  float: left;
+  background-color: yellow;
+}
+
 .image {
   width: 10%;
   float: right;
@@ -5,4 +12,16 @@
 
 .panelpadding {
   padding: 15px;
+}
+
+.panel-blue {
+  background-color: lightcyan;
+}
+
+.panel-heading {
+  background-color: skyblue;
+}
+
+.panel-green {
+  background-color: honeydew;
 }
